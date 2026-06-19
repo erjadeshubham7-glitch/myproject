@@ -8,3 +8,4 @@ master timeline branch
 issue resolved
 raise issue with lan
 resolved 
+problem detected on client side router
